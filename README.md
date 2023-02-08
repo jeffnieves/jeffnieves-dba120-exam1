@@ -1,10 +1,12 @@
 # jeffnieves-dba120-exam1![ch5_ex1_results]
 
-ex 1
+ex 1 adds new record to the (term id, term description, terms due date) to the values of ('6', 'Net due 120 days', '120')
 (https://user-images.githubusercontent.com/122382857/217451230-a6756b94-23f7-4cab-a08f-0dbfeee40f61.png)
-ex2
-ex9![ch5_ex2_results](https://user-images.githubusercontent.com/122382857/217451451-88f6030e-5ba4-47dc-a24f-157eb15d9982.png)
-ex3
+
+ex 2 updates the term discriptionand term due dates
+![ch5_ex2_results](https://user-images.githubusercontent.com/122382857/217451451-88f6030e-5ba4-47dc-a24f-157eb15d9982.png)
+
+ex 3 
 ![ch5_ex3_results](https://user-images.githubusercontent.com/122382857/217451468-81f9a536-d3c3-4f0e-927f-0033487b8fff.png)
 ex4
 ![ch5_ex4_results](https://user-images.githubusercontent.com/122382857/217451474-2933376c-9c4c-43f4-b274-0729d1d3c53d.png)
